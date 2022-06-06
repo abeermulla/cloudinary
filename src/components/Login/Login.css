@@ -1,0 +1,58 @@
+.allloginForm{
+    margin: 70px 50px 100px 60px;
+    border: 1px solid #dedede;
+    border-radius: 7px;
+    padding: 20px;
+    min-width: 15%;
+}
+
+.allloginForm .loginForm{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.loginForm .loginformlbl{
+    display: flex;
+    justify-content: left;
+    margin-top: 5%;
+}
+
+.loginForm .logininput{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #35635b;
+    width: 180px;
+}
+
+.loginForm .loginbtn, .logoutbtn{
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    height: 25px;
+    width: 70px;
+    cursor: pointer;
+    margin: 15px 0px 0px 35%;
+}
+
+.loginbtn:hover{
+    background-color: #769353;
+    color: aliceblue;
+}
+.logoutbtn:hover{
+    background-color: #769353;
+    color: aliceblue;    
+}
+
+.err{
+    color: rgba(197, 10, 10, 0.8);
+}
+
+.errandlogout-container .welcomesentence{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin-top: 100px;
+    float: right;
+}

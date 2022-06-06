@@ -1,0 +1,80 @@
+.tags-container{
+    display: inline-block;
+    justify-content: left;
+    margin: 70px 50px 100px 60px;
+    border: 1px solid #dedede;
+    border-radius: 7px;
+    padding: 20px;
+    min-width: 15%;
+    }
+
+    .tags-container .Tagsbox{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.6rem;
+    }
+        
+    .tags-container .availabletags{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-top: 20px;
+    }
+
+    .tags-container .tagsinput{
+        height: 20px;
+        font-weight: bold;
+        font-size: 1rem;
+        font-family: 'Courier New', Courier, monospace;
+        width: 150px;
+        color: #35635b;
+    
+    }
+
+    .tags-container .saveButton{
+        font-size: 1rem;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+        height: 25px;
+        width: 70px;
+        margin-left: 8px;
+        cursor: pointer;
+    }
+    
+    .saveButton:hover{
+        background-color: #769353;
+        color: aliceblue;
+    }
+
+    .tags{
+    display: flex;
+    margin: 20px;
+           
+    }
+    .tags .tag-item{
+    display: flex;
+    justify-content: space-between;
+    width: 230px;   
+    }
+
+    .tags .tag-item .editTagName{
+    height: 20px;
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    width: 150px;
+    color: #35635b;
+    margin-top: 10px;
+    }
+
+    .tags .tag-item .deleteIcon, .updateIcon{
+    float: right;
+    margin: 20px 5px 5px 0px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    }
+    
+    
+    
+  
+    

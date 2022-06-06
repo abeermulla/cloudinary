@@ -1,0 +1,93 @@
+.images-container {
+    display: grid;
+    grid-template-columns: repeat(4, 150px);
+    column-gap: 10px;
+    border: 1px solid #dedede;
+    border-radius: 7px;
+    padding: 20px;
+    min-width: 50%;
+}
+
+.images-container img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+}
+
+.card {
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+
+
+.card .row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card .row .title {
+    margin: 0px;
+    font-size: x-small;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card .row .tag-icon {
+    padding: 0px;
+    margin: 0px;
+    font-size: small;
+}
+
+.tag-boxes-container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.tag-box {
+    width: 170px;
+    margin-right: 10px;
+    border: 1px solid #dedede;
+    border-radius: 7px;
+    padding: 10px;
+    
+}
+
+.tag-box .title {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.3rem;
+
+}
+
+.tag-box .row {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.tag-box .row img {
+    max-width: 70px;
+    max-height: 70px;
+    margin-top: 10px;
+}
+
+.tag-box .row p {
+    font-size: x-small;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 90px;
+}
+
+.tag-box .row .delete-icon {
+    margin-left: auto;
+}
+
+.images-wrapper .unassignedtags{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 70px;
+    margin-bottom: 5px;
+}
+
