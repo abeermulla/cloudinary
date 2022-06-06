@@ -6,6 +6,7 @@ The project will show a grid of photos and allow the user to assign each to one 
 Clone down this repository. You will need npm installed globally on your machine.
 follow these next steps to get your project set up: 
 Git clone => https://github.com/abeermulla/cloudinary.git
+cd cloudinary
 npm install
 npm install react 
 npm start
