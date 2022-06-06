@@ -6,7 +6,6 @@ The project will show a grid of photos and allow the user to assign each to one 
 Clone down this repository. You will need npm installed globally on your machine.
 follow these next steps to get your project set up: 
 Git clone => https://github.com/abeermulla/cloudinary.git
-cd my-app
 npm install
 npm install react 
 npm start
@@ -33,4 +32,3 @@ the user is able to log out also.
 * I would test if the tag created by the user if it already exists, if yes they will receive an alert that notifies them that the tag already exists and they can use the existing tag.
 
 * I would check if the user worked on the app in the last 15 minutes and if not then the system would alert them that their session timed out and will disconnect them.
-
