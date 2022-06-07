@@ -38,8 +38,9 @@ the user is able to log out also.
 ### Images & Tags How To Use :
 
 
------------------------------------------------------------------------------------
- First you have to login :
+--------------------------------------------------------------------------------------
+ * First you have to login :
+ 
 ![image](https://user-images.githubusercontent.com/97873678/172328850-ab651f6b-9f39-4a2b-b8f1-995a3fef9e05.png)
 
 
@@ -50,64 +51,51 @@ the user is able to log out also.
 ---------------------------------------------------------------------------------------
 
 * If the details are correct then "welcome sentence" will appear:
+
 ![image](https://user-images.githubusercontent.com/97873678/172333683-e9316630-d783-4520-b4d9-5f32f0f07395.png)
-
-
-
-
-
 
 * The user can also logout.
 
-
+----------------------------------------------------------------------------------------
 * If the details doesn’t match: 
+
 ![image](https://user-images.githubusercontent.com/97873678/172328960-3926cc48-69c4-4df7-9cd0-f146f92bf4dc.png)
 
-  
-
-
-
-
+----------------------------------------------------------------------------------------
 * The website will show you a grid of images and list of tags:
+
  ![image](https://user-images.githubusercontent.com/97873678/172329011-892a7263-c1b2-494f-b3e4-aee7681e188e.png)
-
-
-
+ 
+----------------------------------------------------------------------------------------
 * To add one more tag:
+
 ![image](https://user-images.githubusercontent.com/97873678/172334358-d463f9cb-3221-44bb-b21f-fcfc9d83c593.png)
 
-
-
-
-
-
+----------------------------------------------------------------------------------------
 * Rename the tag:
-![image](https://user-images.githubusercontent.com/97873678/172329136-f1091ee3-48b6-43e8-a911-14dda49cb48a.png)
-![image](https://user-images.githubusercontent.com/97873678/172329167-769d9414-f901-4717-8707-b35ad78d9d88.png)
-![image](https://user-images.githubusercontent.com/97873678/172329213-851041dc-3c65-4952-94fe-98f06325c393.png)
+
+![image](https://user-images.githubusercontent.com/97873678/172335592-9f6be6f1-cc11-42f4-b810-e04e2023dcc6.png)
 
 
-
-
-
-
+----------------------------------------------------------------------------------------
 * Delete the tag:
-![image](https://user-images.githubusercontent.com/97873678/172329377-a0698ed9-ffd8-4430-9a5c-732a55b92d3f.png)
+
+![image](https://user-images.githubusercontent.com/97873678/172335451-08b77827-df2a-485d-99de-f6c282cfd4dd.png)
 ![image](https://user-images.githubusercontent.com/97873678/172329456-571c0b67-51f9-490e-84a9-2de9c7bfa9c0.png)
 
-
-
-
+----------------------------------------------------------------------------------------
 * To tag image to one or more tags:
-![image](https://user-images.githubusercontent.com/97873678/172329517-277d0fbe-4664-4971-b912-bccb7eeacc0a.png)
-![image](https://user-images.githubusercontent.com/97873678/172329590-00428de8-e642-43ff-b570-6454b45ac873.png)
-![image](https://user-images.githubusercontent.com/97873678/172329628-33e8a8ae-5d9e-4b27-8e24-a9b0ba23df9b.png)
 
- 
+![image](https://user-images.githubusercontent.com/97873678/172336074-9b788645-93f3-43c5-b16e-d0c640090f61.png)
+![image](https://user-images.githubusercontent.com/97873678/172336210-9bc8eca0-1039-451e-a900-edfceafa14a4.png)
+![image](https://user-images.githubusercontent.com/97873678/172336330-2d6349f5-0da0-416b-9bcb-4b48ce91d972.png)
 
-
+----------------------------------------------------------------------------------------
 * To delete image from a tag:
-![image](https://user-images.githubusercontent.com/97873678/172329674-131fdcb9-c56f-487d-adc2-7ad4c5ddfdc6.png)
-![image](https://user-images.githubusercontent.com/97873678/172329716-80133395-c4ef-48f0-8ae1-1ee7e462bb2a.png)
+
+![image](https://user-images.githubusercontent.com/97873678/172336440-8139adb4-243e-4dcb-8d31-39520b4869e7.png)
+![image](https://user-images.githubusercontent.com/97873678/172336543-36d8e53c-1442-4d55-a35e-ddde8b35a05c.png)
+
+----------------------------------------------------------------------------------------
 
  
