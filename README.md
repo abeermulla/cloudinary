@@ -36,6 +36,9 @@ the user is able to log out also.
 
 
 ### Images & Tags How To Use :
+
+
+
 * First you have to login :
 ![image](https://user-images.githubusercontent.com/97873678/172328850-ab651f6b-9f39-4a2b-b8f1-995a3fef9e05.png)
 
@@ -47,7 +50,7 @@ the user is able to log out also.
 
 
 * If the details are correct then "welcome sentence" will appear:
-![image](https://user-images.githubusercontent.com/97873678/172328895-888f9665-2849-4e67-bfbc-53855a37b7bb.png)
+ ![image](https://user-images.githubusercontent.com/97873678/172333063-2778d2bd-4e11-4047-a83b-76c29643794f.png)
 
 
 
@@ -55,7 +58,8 @@ the user is able to log out also.
 
 
 * The user can also logout.
- 
+
+
 * If the details doesn’t match: 
 ![image](https://user-images.githubusercontent.com/97873678/172328960-3926cc48-69c4-4df7-9cd0-f146f92bf4dc.png)
 
