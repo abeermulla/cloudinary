@@ -33,3 +33,64 @@ the user is able to log out also.
 * I would test if the tag created by the user if it already exists, if yes they will receive an alert that notifies them that the tag already exists and they can use the existing tag.
 
 * I would check if the user worked on the app in the last 15 minutes and if not then the system would alert them that their session timed out and will disconnect them.
+
+
+### Images & Tags How To Use :
+* First you have to login :
+![image](https://user-images.githubusercontent.com/97873678/172328657-500bfa86-918c-41ea-a265-c29f38e1d82b.png)
+
+
+
+
+
+
+
+
+* If the details are correct then "welcome sentence" will appear:
+
+
+
+
+
+
+* The user can also logout.
+ 
+* If the details doesn’t match: 
+  
+
+
+
+
+* The website will show you a grid of images and list of tags:
+ 
+
+* To add one more tag:
+
+
+* Delete the tag:
+
+
+
+
+
+
+
+* Rename the tag:
+
+
+
+
+
+
+
+
+
+
+
+* To tag image to one or more tags:
+
+ 
+
+
+* To delete image from a tag:
+ 
