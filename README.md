@@ -38,7 +38,7 @@ the user is able to log out also.
 ### Images & Tags How To Use :
 
 
-
+-----------------------------------------------------------------------------------
 * First you have to login :
 ![image](https://user-images.githubusercontent.com/97873678/172328850-ab651f6b-9f39-4a2b-b8f1-995a3fef9e05.png)
 
@@ -47,7 +47,7 @@ the user is able to log out also.
 
 
 
-
+---------------------------------------------------------------------------------------
 
 * If the details are correct then "welcome sentence" will appear:
 ![image](https://user-images.githubusercontent.com/97873678/172333683-e9316630-d783-4520-b4d9-5f32f0f07395.png)
@@ -74,7 +74,7 @@ the user is able to log out also.
 
 
 * To add one more tag:
-![image](https://user-images.githubusercontent.com/97873678/172329050-e14a8d56-4b6e-46d3-8979-b97a5a8d267f.png)
+![image](https://user-images.githubusercontent.com/97873678/172334358-d463f9cb-3221-44bb-b21f-fcfc9d83c593.png)
 
 
 
