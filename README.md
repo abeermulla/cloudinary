@@ -50,7 +50,7 @@ the user is able to log out also.
 
 
 * If the details are correct then "welcome sentence" will appear:
- ![image](https://user-images.githubusercontent.com/97873678/172333063-2778d2bd-4e11-4047-a83b-76c29643794f.png)
+![image](https://user-images.githubusercontent.com/97873678/172333683-e9316630-d783-4520-b4d9-5f32f0f07395.png)
 
 
 
