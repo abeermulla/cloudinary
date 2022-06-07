@@ -39,7 +39,7 @@ the user is able to log out also.
 
 
 -----------------------------------------------------------------------------------
-* First you have to login :
+ First you have to login :
 ![image](https://user-images.githubusercontent.com/97873678/172328850-ab651f6b-9f39-4a2b-b8f1-995a3fef9e05.png)
 
 
