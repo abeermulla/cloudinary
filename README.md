@@ -7,15 +7,15 @@ Clone down this repository. You will need npm installed globally on your machine
 
 follow these next steps to get your project set up: 
 
-git clone https://github.com/abeermulla/cloudinary.git
+1. git clone https://github.com/abeermulla/cloudinary.git
 
-cd cloudinary
+2. cd cloudinary
 
-npm install
+3. npm install
 
-npm install react 
+4. npm install react 
 
-npm start
+5. npm start
 
 ### The Technologies I Used:
 * React : React JS allows complete flexibility to the developer, You can add as many external libraries and tools as required and build a massive, complicated web application.
