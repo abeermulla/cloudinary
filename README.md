@@ -30,7 +30,7 @@ npm start
 MUI offers a wide variety of high quality components that have allowed us to ship features faster.
 MUI looks great and lets us deliver fast, solid API design and documentation - it's refreshing to use a component library where you get everything you need.
 
-*UUID : By using UUIDs you can create a UUID and use it to identify something, such as a row in a database, with near certainty that the identifier will not exist in another row in your system or anyone else's.
+* UUID : By using UUIDs you can create a UUID and use it to identify something, such as a row in a database, with near certainty that the identifier will not exist in another row in your system or anyone else's.
 
 ### Assumptions And tests About The Users:
 I created an object where there is only one user and they have a username and password. So I assume that once the user is signed in they will be authorized to do so, and they will be able to tag photos to tags and only those who have a username and a password and are in the object then they can access the app and their details will be saved. 
