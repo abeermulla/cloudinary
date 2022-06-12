@@ -38,9 +38,13 @@ Those who don't have these things and attempt to sign in will recieve an alert t
 the user is able to log out also.
 
 ### Tests I Would Perform:
-* I would test if the tag created by the user if it already exists, if yes they will receive an alert that notifies them that the tag already exists and they can use the existing tag.
+* I would test if the tag created by the user if it already exists, if yes it will receive an alert notifies that the tag already exists and the user can use the existing tag.
 
 * I would check if the user worked on the app in the last 15 minutes and if not then the system would alert them that their session timed out and will disconnect them.
+
+* Before deleting tag by the user check if the tag includes images, if yes the user must delete the images from the tag and then the tag deletion done.
+
+* When the user rename one tag test if the new tag name is already exist in the current tag list, if yes it will receive an alert notifies that the tag already exists and the user can use the existing tag.
 
 
 ### Images & Tags How To Use :
